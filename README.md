@@ -21,6 +21,12 @@ This tool enables users to select a stock, a date range, and a rolling window to
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](sccc.png)
+
+---
+
 ## 📊 Example Dashboard
 Live demo: [Quantitative Terminal](https://datamexlabs.shinyapps.io/QuantitativeTerminal/)  
 
